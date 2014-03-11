@@ -10,7 +10,7 @@ $ git clone https://github.com/taylorlapeyre/show-template.git ~/.atom/packages/
 
 **Usage:**
 
-- `cmd-alt-t` - opens a new tab with the current view's template
+- `ctrl-alt-t` - opens a new tab with the current view's template
 - Open the command palette and type `template`
 
 ![Screenshot](http://recordit.co/TQ0TnsB7Nh.gif)
