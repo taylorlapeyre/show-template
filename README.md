@@ -4,10 +4,13 @@ This is a package for Atom that looks in the current file for a line that assign
 
 **Installation:**
 
+```bash
+$ git clone https://github.com/taylorlapeyre/show-template.git ~/.atom/packages/show-template
+```
 
 **Usage:**
 
 - `cmd-alt-t` - opens a new tab with the current view's template
-- Open the command palette and type "template"
+- Open the command palette and type `template`
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+[Screenshot](http://recordit.co/TQ0TnsB7Nh.gif)
