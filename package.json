@@ -1,0 +1,14 @@
+{
+  "name": "show-template",
+  "main": "./lib/show-template",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["show-template:show"],
+  "repository": "https://github.com/taylorlapeyre/show-template",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
